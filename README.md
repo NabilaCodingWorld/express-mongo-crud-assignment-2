@@ -8,6 +8,11 @@ This guide will help you set up and run the backend server for your project loca
 - MongoDB installed and running locally
 - Git installed (optional)
 
+## Links
+
+- GitHub Link: https://github.com/NabilaCodingWorld/express-mongo-crud-assignment-2
+- Live Link: https://express-mongo-crud.vercel.app/
+
 ## Installation
 
 1. Clone this repository to your local machine using Git (if you have Git installed), or download the project as a ZIP file and extract it.
